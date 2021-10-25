@@ -1,8 +1,10 @@
 // 10 LED fun
+// Gavin's Code for the 10 LED fun
 int leds[] = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11};
 int sleepTime = 100;
 
 void rightToLeft() {
+  // Lights up LEDs from right to left
   for (int i = 0; i < 10; i++) {
     // Counts 0 to 9
     
@@ -17,6 +19,7 @@ void rightToLeft() {
 }
 
 void leftToRight() {
+  // Lights up LEDs from right to left
   for (int j = 10; j > 0; j--) {
     // Counts 9 to 0
     
