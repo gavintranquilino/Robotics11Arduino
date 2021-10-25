@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM6",
+    "output": "../build",
+    "sketch": "10LEDfun\\10LEDfun.ino"
+}
