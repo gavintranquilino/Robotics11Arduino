@@ -2,5 +2,5 @@
     "board": "arduino:avr:uno",
     "port": "COM3",
     "output": "../build",
-    "sketch": "Pushbuttons\\onePushbutton.ino"
+    "sketch": "potentiometerServo\\potentiometerServo.ino"
 }
