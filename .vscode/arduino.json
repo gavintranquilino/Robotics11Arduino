@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
-    "port": "COM6",
+    "port": "COM3",
     "output": "../build",
-    "sketch": "10LEDfun\\10LEDfun.ino"
+    "sketch": "Pushbuttons\\onePushbutton.ino"
 }
