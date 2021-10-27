@@ -16,6 +16,14 @@ Source code and images can be found [here](https://github.com/GuhBean/Robotics11
 
 Source code and images can be found [here](https://github.com/GuhBean/Robotics11Arduino/tree/main/SpinMotorSpin)
 
+## Pushbuttons
+
+Source code and images can be found [here](https://github.com/GuhBean/Robotics11Arduino/tree/main/Pushbuttons)
+
+## Potentiometer Servo
+
+Source code and images can be found [here](https://github.com/GuhBean/Robotics11Arduino/tree/main/potentiometerServo)
+
 ## License
 
 No License Yet
