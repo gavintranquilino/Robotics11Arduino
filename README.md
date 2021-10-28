@@ -24,6 +24,10 @@ Source code and images can be found [here](https://github.com/GuhBean/Robotics11
 
 Source code and images can be found [here](https://github.com/GuhBean/Robotics11Arduino/tree/main/potentiometerServo)
 
+## Night Light
+
+Source code and images can be found [here](https://github.com/GuhBean/Robotics11Arduino/tree/main/nightLight)
+
 ## License
 
-No License Yet
+[LICENSE](https://github.com/GuhBean/Robotics11Arduino/blob/main/LICENSE)
