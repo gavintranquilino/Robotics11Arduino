@@ -1,3 +1,4 @@
+// Arduino code by Gavin
 int photoPin = 0; //Analog
 int ledPin = 9;
 

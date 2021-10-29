@@ -1,6 +1,7 @@
 #include <Servo.h>
 
 // Variables
+// By Gavin
 Servo servo;
 
 int potPin = 0; // Analog In
