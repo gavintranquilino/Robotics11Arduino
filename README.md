@@ -4,7 +4,9 @@ This is a compilation of the code and images for all Arduino code in the Robotic
 
 # - Modified Blink Circuit
 
-![Modified Blink Circuit](modifiedBlinkCircuit/tinkercad.png)
+### Click on Image for video
+
+[![Modified Blink Circuit Video](modifiedBlinkCircuit/tinkercad.png)](https://www.youtube.com/watch?v=FcY8YRska3o "Modified Blink Circuit")
 
 ### Instructions
 
@@ -16,7 +18,9 @@ Source code and images can be found [here](https://github.com/GuhBean/Robotics11
 
 # - 10 LED Fun
 
-![10 LED fun](10LEDfun/tinkercad.png)
+### Click on Image for video
+
+[![10LEDfun Video](10LEDfun/tinkercad.png)](https://www.youtube.com/shorts/J7pgO_0pZHM "Modified Blink Circuit")
 
 ### Instructions
 
@@ -28,7 +32,9 @@ Source code and images can be found [here](https://github.com/GuhBean/Robotics11
 
 # - Spin Motor Spin
 
-![Spin Motor Spin](SpinMotorSpin/tinkercad.png)
+### Click on Image for video
+
+[![Spin Motor Spin Video](SpinMotorSpin/tinkercad.png)](https://www.youtube.com/watch?v=2b09vcpmtgY "Modified Blink Circuit")
 
 ### Instructions
 
@@ -40,7 +46,9 @@ Source code and images can be found [here](https://github.com/GuhBean/Robotics11
 
 # - Pushbuttons
 
-![Pushbuttons](Pushbuttons/tinkercad.png)
+### Click on Image for video
+
+[![Pushbuttons Video](Pushbuttons/tinkercad.png)](https://www.youtube.com/shorts/AekuZ7skTLg "Modified Blink Circuit")
 
 ### Instructions
 
@@ -52,7 +60,9 @@ Source code and images can be found [here](https://github.com/GuhBean/Robotics11
 
 # - Potentiometer Servo
 
-![potentiometerServo](potentiometerServo/tinkercad.png)
+### Click on Image for video
+
+[![Potentiometer Servo Video](Pushbuttons/tinkercad.png)](https://www.youtube.com/shorts/-8Qf8vi7wmg "Modified Blink Circuit")
 
 ### Instructions
 
@@ -64,7 +74,9 @@ Source code and images can be found [here](https://github.com/GuhBean/Robotics11
 
 # - Night Light
 
-![Night Light](nightLight/tinkercad.png)
+### Click on Image for video
+
+[![Night Light Video](nightLight/tinkercad.png)](https://www.youtube.com/watch?v=Zj6qSVZm_xE "Modified Blink Circuit")
 
 ### Instructions
 
